@@ -1,0 +1,29 @@
+.why{
+    background-color: #0095e5;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.why .title{
+    text-align: center;
+}
+.singleWhy{
+    margin: 0 15px;
+}
+.imgWhy{
+    width: 100px;
+}
+.subtitle{
+    font-size: 24px;
+    font-weight: bold;
+}
+.mb{
+    margin: 5px 0;
+}
+
+
+@media screen and (max-width: 950px) {
+    .singleWhy{
+        margin: 25px;
+    }
+}

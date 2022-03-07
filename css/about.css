@@ -35,4 +35,7 @@ span{
         justify-items: center;
         text-align: center;
     }
+    .about-single{
+        margin: 20px 0;
+    }
 }
