@@ -1,6 +1,4 @@
-.about{
-    /* background-color: aqua; */
-}
+
 .flex{
     display: flex;
     padding: 40px 0;
@@ -22,4 +20,19 @@
 span{
     color: #00acb1;
     font-weight: bold;
+    
+}
+
+
+@media screen and (max-width: 950px) {
+    .imgAbout{
+        width: 450px;
+        margin-right: 50px;
+    }
+    .flex{
+        flex-wrap: wrap;
+        justify-content: center;
+        justify-items: center;
+        text-align: center;
+    }
 }
