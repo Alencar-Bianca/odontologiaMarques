@@ -41,6 +41,10 @@ ul{
 li{
     margin-right: 50px;
 }
+.img{
+    width: 50px;
+    padding: 5px 0;
+}
 .main-title{
     color: aliceblue;
     font-size: 50px;
