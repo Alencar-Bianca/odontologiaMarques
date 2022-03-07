@@ -1,0 +1,25 @@
+.about{
+    /* background-color: aqua; */
+}
+.flex{
+    display: flex;
+    padding: 40px 0;
+    
+}
+.imgAbout{
+    width: 550px;
+    margin-right: 50px;
+}
+.titleColor{
+    color: #0095e5;
+    font-size: 40px;
+}
+.pColor{
+    margin-top: 10px;
+    color: #373838;
+    font-size: 22px;
+}
+span{
+    color: #00acb1;
+    font-weight: bold;
+}

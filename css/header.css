@@ -1,8 +1,3 @@
-.header{
-    background-color: #29707abd;
-   
-
-}
 .bg{
     background-image: url('../assets/banner.jpg');
     background-position: center;
@@ -10,6 +5,10 @@
     width: 100%;
     height: 657px;
     position: relative ;
+    
+}
+.header{
+    background-color: #29707abd;
 }
 .float{
    float: right  ;
@@ -45,7 +44,7 @@ li{
     width: 50px;
     padding: 5px 0;
 }
-.main-title{
+.title{
     color: aliceblue;
     font-size: 55px;
     font-weight: bold;
