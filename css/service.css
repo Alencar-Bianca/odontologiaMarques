@@ -1,6 +1,14 @@
-
+.service{
+    padding: 40px 0;
+}
 .service .title{
     text-align: center;
+    color: #026268;
 }
-
-
+.singleService{
+    margin: 20px 0;
+}
+.singleService .subtitle{
+    text-align: center;
+    color: #07848d;
+}

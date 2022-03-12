@@ -1,0 +1,23 @@
+.ourTeam{
+    padding: 10px 0;
+    background-color: #005963;
+    text-align: center ;
+}
+.singleTeam{
+    /* background-color: #fcf7ff; */
+    /* margin: 5px 0; */
+    margin-left: 50px;
+}
+.imgDoctor{
+    width: 300px;
+
+    border-radius: 10px;
+}
+.singleTeam .subtitle{
+    margin: 10px 0;
+    font-size: 28px;
+    color: #fcf7ff;
+}
+.para{
+    padding: 0 2%;
+}
